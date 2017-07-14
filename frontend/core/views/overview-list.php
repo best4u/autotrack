@@ -8,10 +8,6 @@ $price_color = get_option("at_price_color");
     }
 </style>
 
-<?php
-$at_password = get_option("at_password");
-var_dump($at_password);
-?>
 <div class="overview_gridWrapp listMode">
     <div class="leftAndRightWrapp">
         <div class="centerDiv">
